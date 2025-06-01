@@ -3,15 +3,15 @@ Este é um jogo de plataforma vertical simples, inspirado no estilo do jogo "Pou
 
 ### Como Jogar
 
-    Inicie o Jogo: Execute o script main.py (ou o nome do seu arquivo principal).
-    Tela Inicial/Carregamento: Pressione a barra de espaço para iniciar o jogo ou para sair das telas de "carregamento" ou "game over".
-    Movimento do Jogador:
-       - Seta Esquerda: Move o jogador para a esquerda.
-       - Seta Direita: Move o jogador para a direita.
-       - O jogador pula automaticamente ao cair em uma plataforma.
-    Bot: O bot se move horizontalmente pela tela. Evite colidir com ele. Se ele cair da tela, um novo bot aparecera em uma posicao aleatoria.
-    Suba! O jogo rola verticalmente, e novas plataformas sao geradas a medida que voce sobe.
-    Fim de Jogo: Se o jogador cair da tela, o jogo termina. Pressione a barra de espaco para voltar a tela inicial.
+Inicie o Jogo: Execute o script main.py (ou o nome do seu arquivo principal).
+Tela Inicial/Carregamento: Pressione a barra de espaço para iniciar o jogo ou para sair das telas de "carregamento" ou "game over".
+Movimento do Jogador:
+  - Seta Esquerda: Move o jogador para a esquerda.
+  - Seta Direita: Move o jogador para a direita.
+  - O jogador pula automaticamente ao cair em uma plataforma.
+Bot: O bot se move horizontalmente pela tela. Evite colidir com ele. Se ele cair da tela, um novo bot aparecera em uma posicao aleatoria.
+Suba! O jogo rola verticalmente, e novas plataformas sao geradas a medida que voce sobe.
+Fim de Jogo: Se o jogador cair da tela, o jogo termina. Pressione a barra de espaco para voltar a tela inicial.
 
 ### Recursos
 
@@ -29,6 +29,6 @@ Este é um jogo de plataforma vertical simples, inspirado no estilo do jogo "Pou
 Para rodar este jogo, voce precisara ter o Pygame Zero instalado.
 
 Voce pode instala-lo usando pip:
-´´´
-pip install pgzero
-´´´
+
+    pip install pgzero
+
