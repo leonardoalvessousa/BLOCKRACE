@@ -36,3 +36,6 @@ Voce pode instala-lo usando pip:
 
     pip install pgzero
 
+### Créditos das imagens
+
+    https://kenney.nl/assets
